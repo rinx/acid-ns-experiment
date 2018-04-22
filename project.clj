@@ -1,5 +1,5 @@
 (defproject acid-ns-experiment "0.1.0-SNAPSHOT"
-  :description "namespace experiment for acid.nvim PR #19"
+  :description "namespace experiment for acid.nvim PR #22"
   :url "https://github.com/rinx/acid-ns-experiment"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
